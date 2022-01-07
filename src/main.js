@@ -7,7 +7,7 @@
 //   <a href="https://vitejs.dev/guide/features.html" target="_blank">Documentation</a>
 // `;
 import Navigo from "navigo";
-import menu from "./data.js";
+import menu from "./data";
 
 const showmenu = () => {
     const menuElement = document.querySelector("#menu1");
