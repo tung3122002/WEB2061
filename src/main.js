@@ -13,7 +13,7 @@ const showmenu = () => {
     const menuElement = document.querySelector("#menu1");
     if (menuElement) {
         const kq = menu.map((item) => `
-        <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-5"><a class="  hover:text-white"
+        <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white mx-3"><a class="  hover:text-white"
         href="">${item}</a></li>
         
         `).join("");

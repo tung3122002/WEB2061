@@ -1,2 +1,2 @@
-const menu = ["menu111", "menu2", "menu3", "Tung", "Tùng"];
+const menu = ["Trang chủ  ", "Đào tạo", "Hoạt động sinh viên ", "Tuyển sinh", "Liên hệ"];
 export default menu;
