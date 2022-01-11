@@ -8,16 +8,16 @@ const Header = {
       </div>
       <div class="menu flex flex-nowrap list-none h-[50px] bg-[#C87904]">
         <div id="menu1" class="menu1 flex flex-nowrap list-none h-[50px] bg-[#C87904">
-          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-5"><a class="  hover:text-white"
-              href="">menu2</a></li>
-          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-5"><a class="  hover:text-white"
-              href="">menu2</a></li>
-          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-5"><a class="  hover:text-white"
-              href="">menu2</a></li>
-          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-5"><a class="  hover:text-white"
-              href="">menu2</a></li>
-          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-5"><a class="  hover:text-white"
-              href="">menu2</a></li>
+          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2 "><a class="  hover:text-white"
+              href="/">Trang chủ</a></li>
+          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2 "><a class="  hover:text-white"
+              href="/about">Tin tức</a></li>
+          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
+              href="/signup">Đăng kí</a></li>
+          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
+              href="/signin">Đăng nhập</a></li>
+          <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
+              href="/table">Table</a></li>
 
         </div>
         <form class="ml-[110px] p-[15px]" action="">
