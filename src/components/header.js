@@ -2,7 +2,7 @@ const Header = {
     render() {
         return `<div class="logo bg-[#272f54] py-5">
         <a href="#">
-           <img src="./img/logo.png" alt="" class="mx-auto w-[200px] ">
+           <img src="http://localhost:3001/img/logo.png" alt="" class="mx-auto w-[200px] ">
         </a>
 
       </div>
