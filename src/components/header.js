@@ -11,7 +11,7 @@ const Header = {
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2 "><a class="  hover:text-white"
               href="/">Trang chủ</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2 "><a class="  hover:text-white"
-              href="/about">Tin tức</a></li>
+              href="/admin/dashboard">admin</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
               href="/signup">Đăng kí</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
