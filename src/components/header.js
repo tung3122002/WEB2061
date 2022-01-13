@@ -11,13 +11,13 @@ const Header = {
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2 "><a class="  hover:text-white"
               href="/">Trang chủ</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2 "><a class="  hover:text-white"
-              href="/admin/dashboard">admin</a></li>
+              href="/about">Tin tức</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
               href="/signup">Đăng kí</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
               href="/signin">Đăng nhập</a></li>
           <li class="leading-[50px] hover:bg-[#272f54]  hover:text-white ml-[20px] px-2"><a class="  hover:text-white"
-              href="/table">Table</a></li>
+              href="/admin/dashboard">ADMIN</a></li>
 
         </div>
         <form class="ml-[110px] p-[15px]" action="">

@@ -8,6 +8,7 @@ import dangnhap from "./page/dangnhap";
 import dangki from "./page/dangki";
 import dashboard from "./page/admin/dashboard";
 import edit from "./page/admin/edit";
+import add from "./page/admin/add";
 
 const router = new Navigo("/", { linksSelector: "a" });
 
@@ -31,6 +32,9 @@ router.on({
     },
     "/admin/dashboard": () => {
         print(dashboard.render());
+    },
+    "/admin/add": () => {
+        print(add.render());
     },
     "/product/:id": ({ data }) => {
         const { id } = data;
