@@ -1,10 +1,12 @@
 import data from "../../data";
+import navadmin from "./navadmin";
 
 const edit = {
     render(id) {
         const result = data.find((post) => post.id === id);
 
         return /* html */`
+        ${navadmin.render()}
         <div>
         <div class="md:grid md:grid-cols-3 md:gap-6">
          

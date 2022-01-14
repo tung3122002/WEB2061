@@ -1,8 +1,10 @@
 import data from "../data";
+import navadmin from "./admin/navadmin";
 
 const table = {
     render() {
         return `
+        ${navadmin.render()}
         <!-- This example requires Tailwind CSS v2.0+ -->
 <div class="flex flex-col">
   <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
